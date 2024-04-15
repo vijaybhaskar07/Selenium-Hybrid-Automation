@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-06T00:02:45 IST" name="HRM Application Test Automation Suites" finished-at="2024-03-06T00:02:52 IST" duration-ms="6641">
+    <groups>
+    </groups>
+    <test started-at="2024-03-06T00:02:45 IST" name="HRM app Test cases" finished-at="2024-03-06T00:02:52 IST" duration-ms="6641">
+      <class name="com.hrm.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.tests.LoginPageTest@795cd85e]" started-at="2024-03-06T00:02:46 IST" name="setUp" finished-at="2024-03-06T00:02:51 IST" duration-ms="5185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:com.hrm.tests.LoginPageTest@795cd85e]" started-at="2024-03-06T00:02:51 IST" name="test1" finished-at="2024-03-06T00:02:51 IST" duration-ms="787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.tests.LoginPageTest@795cd85e]" started-at="2024-03-06T00:02:51 IST" name="tearDown" finished-at="2024-03-06T00:02:52 IST" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.tests.LoginPageTest -->
+      <class name="com.hrm.tests.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.tests.HomePageTest@6b81ce95]" started-at="2024-03-06T00:02:46 IST" name="setUp" finished-at="2024-03-06T00:02:51 IST" duration-ms="5238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2()[pri:0, instance:com.hrm.tests.HomePageTest@6b81ce95]" started-at="2024-03-06T00:02:51 IST" name="test2" finished-at="2024-03-06T00:02:51 IST" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.tests.HomePageTest@6b81ce95]" started-at="2024-03-06T00:02:51 IST" name="tearDown" finished-at="2024-03-06T00:02:52 IST" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.tests.HomePageTest -->
+    </test> <!-- HRM app Test cases -->
+  </suite> <!-- HRM Application Test Automation Suites -->
+</testng-results>
